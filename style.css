@@ -1,0 +1,206 @@
+body:before {
+  background-image: url("https://www.monsterhunter.com/world-iceborne/pc/assets/img/common/common/bg_pattern.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ui.top.borderless.attached.mini.fixed.menu {
+  background-color: #09405e;
+  font-size: 0.85vw;
+  font-family: "cardo", "serif";
+  line-height: 1.2em;
+  padding-bottom: 5px;
+  height: 3.333333vw;
+}
+
+.special.text {
+  color: white;
+  vertical-align: middle;
+}
+
+.main {
+  color: #FFF;
+  position: relative;
+  overflow: hidden;
+  min-height: calc(100vh - 3.33333vw);
+  background-image: url(https://www.monsterhunter.com/world-iceborne/pc/assets/img/common/top/main_bg.jpg);
+  background-size: cover;
+  background-position: center, center;
+  border-top: 5px solid #1d8bc0;
+  padding-top: 50px;
+}
+
+.header {
+  padding-bottom: 12vw;
+  padding-top: 10px;
+  margin: auto;
+  height: auto;
+}
+
+.main-text {
+  width: 39.71428vw;
+  margin: 1vw auto auto 8vw;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: #043e7a;
+  font-weight: bold;
+}
+
+.first-text {
+  font-size: 1.5vw;
+  line-height: 1.6;
+}
+
+.second-text {
+  font-weight: 900;
+  font-size: 3.645833vw;
+  line-height: 1.2;
+  margin-bottom: 1.6vw;
+}
+
+.news {
+  width: 100%;
+  display: block;
+  text-align: center;
+  vertical-align: middle;
+  background: #334769;
+}
+
+.ui.news.list {
+  display: inline-block;
+  margin: 1.25vw 2vw;
+  width: 72.2857vw;
+  padding: 0 1vw;
+  vertical-align: middle;
+}
+
+.ui.news.image {
+  width: 100%;
+  height: auto;
+}
+
+.ui.centered.news.image {
+  width: 73%;
+  height: 90%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer {
+  position: relative;
+  z-index: 1;
+}
+
+.footer-account {
+  background-color: rgba(34, 115, 155, 0.8);
+  height: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+}
+
+.bottomtext.text {
+  margin-bottom: 5px;
+}
+
+.circular.facebook.f.icon {
+  color: rgba(34, 115, 155, 0.8);
+  background-color: white;
+  padding-bottom: 0;
+}
+
+.large.twitter.icon {
+  color: white;
+}
+
+.large.instagram.icon {
+  color: white;
+}
+
+.large.youtube.icon {
+  color: white;
+}
+
+.ui.borderless.moreinfo.menu {
+  background-color: #000000;
+  padding: 1.3333vw 0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.moreinfo.text {
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 1.06667vw;
+  line-height: 1.6;
+  vertical-align: middle;
+  margin-right: 2.66667vw;
+}
+
+.moreinfo-text.item {
+  margin-left: 300px;
+}
+
+.footer-info {
+  border-top: 1px solid #474747;
+  background-color: #0b263d;
+  color: #c3c3c3;
+  font-size: 0.93333vw;
+  padding: 20px 50px 20px 150px;
+}
+
+.ui.centered.container {
+  margin: 0 auto;
+}
+
+.footer-title text {
+  font-size: 1.06667vw;
+  line-height: 1.6;
+  margin-bottom: 1.33333vw;
+}
+
+.ui.right.labeled.icon.button {
+  background-color: #0b263d;
+  font-size: 0.93333vw;
+  position: relative;
+  color: #FFF;
+  line-height: 1;
+  text-align: center;
+  display: block;
+  width: 30vw;
+  margin: 1vw 0 0;
+  padding: 0.5vw;
+  border: 1px solid #FFF;
+}
+
+.footer-platform {
+  border-top: 1px solid #474747;
+  background-color: #000000;
+  color: #666;
+  padding-top: 10px;
+}
+
+.ui.footer.horizontal.list {
+  display: inline;
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+
+.platfrom.text {
+  font-size: 10px;
+  padding: 0 1em 1em 1em;
+}
+
