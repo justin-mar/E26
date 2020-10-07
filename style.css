@@ -14,7 +14,6 @@ body:before {
 .ui.top.borderless.attached.mini.fixed.menu {
   background-color: #09405e;
   font-size: 0.85vw;
-  font-family: "cardo", "serif";
   line-height: 1.2em;
   padding-bottom: 5px;
   height: 3.333333vw;
